@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    box-sizing: 0%;
+    margin: 0%;
+}
+
+
+.nav-enlace {
+    display: inline-block;
+    background-color: lightslategrey;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration: none;
+    
+}
+
+.nav-enlace:hover {
+        background: rosybrown;
+}
+
+nav{ 
+    background: lightblue;
+    padding: 10px;
+
+}
+
+    logo {
+        position: absolute;
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+  
